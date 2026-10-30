@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="230" viewBox="0 0 860 230" role="img" aria-label="O que Luis Russo está construindo">
+  <style>
+    .t { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "DejaVu Sans Mono", monospace; font-size: 14px; }
+    .p { fill: #F5DABE; font-weight: 700; } .d { fill: #B08A7A; } .dir { fill: #E8A04A; font-weight: 700; } .v { fill: #F5DABE; } .y { fill: #E8A04A; }
+  </style>
+  <rect width="860" height="230" rx="12" fill="#2A0A0E" stroke="#570F17"/>
+  <text class="t" xml:space="preserve">
+    <tspan x="24" y="36" class="p">luis@russo</tspan><tspan class="d">:</tspan><tspan class="dir">~</tspan><tspan class="v"> $ ls -l ~/construindo</tspan>
+    <tspan x="24" y="66" class="d">drwxr-xr-x  </tspan><tspan class="dir">base/          </tspan><tspan class="v">comunidade: confiança primeiro, negócio depois</tspan>
+    <tspan x="24" y="92" class="d">drwxr-xr-x  </tspan><tspan class="dir">vira-rotina/   </tspan><tspan class="v">rotina conferida por foto, direto no WhatsApp</tspan>
+    <tspan x="24" y="118" class="d">drwxr-xr-x  </tspan><tspan class="dir">fox/           </tspan><tspan class="v">foto da nota fiscal vira controle financeiro</tspan>
+    <tspan x="24" y="144" class="d">drwxr-xr-x  </tspan><tspan class="dir">crm-hoteis/    </tspan><tspan class="v">comercial hoteleiro, do papel para o sistema</tspan>
+    <tspan x="24" y="178" class="p">luis@russo</tspan><tspan class="d">:</tspan><tspan class="dir">~</tspan><tspan class="v"> $ cat ~/construindo/vira-rotina/STATUS</tspan>
+    <tspan x="24" y="204" class="y">● em produção</tspan><tspan class="v"> — app.virarotina.com</tspan>
+  </text>
+</svg>

@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="330" viewBox="0 0 860 330" role="img" aria-label="Luis Russo — card estilo neofetch">
+  <style>
+    .t { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "DejaVu Sans Mono", monospace; font-size: 13px; }
+    .logo { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "DejaVu Sans Mono", monospace; font-size: 13px; fill: #E8A04A; }
+    .k { fill: #E8A04A; font-weight: 700; }
+    .v { fill: #F5DABE; }
+    .d { fill: #B08A7A; }
+    .h { fill: #F5DABE; font-weight: 700; }
+  </style>
+  <rect width="860" height="330" rx="12" fill="#2A0A0E" stroke="#570F17"/>
+  <rect width="860" height="32" rx="12" fill="#570F17"/>
+  <rect y="20" width="860" height="12" fill="#570F17"/>
+  <circle cx="22" cy="16" r="6" fill="#F5DABE"/><circle cx="42" cy="16" r="6" fill="#E8A04A"/><circle cx="62" cy="16" r="6" fill="#A45F0D"/>
+  <text x="430" y="21" text-anchor="middle" class="t d">luis@russo: ~</text>
+
+  <text class="logo" xml:space="preserve">
+    <tspan x="24" y="78">██████╗ ██╗   ██╗███████╗███████╗ ██████╗ </tspan>
+    <tspan x="24" y="93">██╔══██╗██║   ██║██╔════╝██╔════╝██╔═══██╗</tspan>
+    <tspan x="24" y="108">██████╔╝██║   ██║███████╗███████╗██║   ██║</tspan>
+    <tspan x="24" y="123">██╔══██╗██║   ██║╚════██║╚════██║██║   ██║</tspan>
+    <tspan x="24" y="138">██║  ██║╚██████╔╝███████║███████║╚██████╔╝</tspan>
+    <tspan x="24" y="153">╚═╝  ╚═╝ ╚═════╝ ╚══════╝╚══════╝ ╚═════╝ </tspan>
+  </text>
+  <text x="24" y="190" class="t d" xml:space="preserve">   antes de crescer, ancorar.</text>
+
+  <text class="t" xml:space="preserve">
+    <tspan x="400" y="66" class="h">luis</tspan><tspan class="d">@</tspan><tspan class="h">russo</tspan>
+    <tspan x="400" y="84" class="d">──────────────────────────────────</tspan>
+    <tspan x="400" y="108" class="k">Fundador  </tspan><tspan class="v">BASE · @somos.abase</tspan>
+    <tspan x="400" y="130" class="k">Constrói  </tspan><tspan class="v">ViraRotina · FOX</tspan>
+    <tspan x="400" y="152" class="k">Desde     </tspan><tspan class="v">empreendo desde os 13</tspan>
+    <tspan x="400" y="174" class="k">Stack     </tspan><tspan class="v">TypeScript · Next.js · NestJS</tspan>
+    <tspan x="400" y="196" class="k">Dados     </tspan><tspan class="v">PostgreSQL · Prisma · Redis</tspan>
+    <tspan x="400" y="218" class="k">IA        </tspan><tspan class="v">visão computacional · Whisper</tspan>
+    <tspan x="400" y="240" class="k">Estudando </tspan><tspan class="v">Roblox · Luau</tspan>
+    <tspan x="400" y="262" class="k">Lema      </tspan><tspan class="v">tecnologia não é magia</tspan>
+  </text>
+
+  <g transform="translate(400,284)">
+    <rect width="40" height="14" fill="#570F17"/><rect x="40" width="40" height="14" fill="#A45F0D"/>
+    <rect x="80" width="40" height="14" fill="#E8A04A"/><rect x="120" width="40" height="14" fill="#F5DABE"/>
+  </g>
+</svg>
