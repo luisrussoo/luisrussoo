@@ -39,7 +39,6 @@
   <a href="https://www.instagram.com/luisrussoo/"><img src="https://img.shields.io/badge/-Instagram-A45F0D?style=for-the-badge&logo=instagram&logoColor=F5DABE" /></a>
   <a href="https://www.youtube.com/@LuisRussoo"><img src="https://img.shields.io/badge/-YouTube-A45F0D?style=for-the-badge&logo=youtube&logoColor=F5DABE" /></a>
   <a href="https://www.linkedin.com/in/luisrussoxeno/"><img src="https://img.shields.io/badge/-LinkedIn-A45F0D?style=for-the-badge&logo=linkedin&logoColor=F5DABE" /></a>
-  <a href="https://app.virarotina.com"><img src="https://img.shields.io/badge/-ViraRotina-A45F0D?style=for-the-badge&logoColor=F5DABE" /></a>
 </div>
 
 </div>
